@@ -185,9 +185,6 @@
   "5d11212ed4e763ea605d9ec9c70210d3cbe3a15b": [
     "virtualization\\hyperv_on_windows\\TOC.md"
   ],
-  "9c6055c808ae6fdcf4578005b6f17fb5f15e436d": [
-    "virtualization\\hyperv_on_windows\\TOC.md"
-  ],
   "15ca83a671c5bc684c7d4c7634b537c068af3643": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
   ],
@@ -240,9 +237,6 @@
     "virtualization\\windowscontainers\\about\\work_in_progress.md"
   ],
   "f7fbf5b58053a266372ccb205942ba9b61446640": [
-    "virtualization\\windowscontainers\\containers_welcome.md"
-  ],
-  "2c76787127772f0d0fe7a8f95c3f8b79d4ffbb5f": [
     "virtualization\\windowscontainers\\containers_welcome.md"
   ],
   "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32": [
@@ -312,12 +306,6 @@
     "virtualization\\windowscontainers\\TOC.md"
   ],
   "45b3d0220f08a392288244df9b2aec25aba20ed1": [
-    "virtualization\\hyperv_on_windows\\windows_welcome1.md"
-  ],
-  "9ce8544730a5c1f86ed1b2bc42f57fb922b677bf": [
-    "virtualization\\hyperv_on_windows\\windows_welcome1.md"
-  ],
-  "6efe25bd18478e4de51fc4693054eb025a94d068": [
     "virtualization\\hyperv_on_windows\\windows_welcome1.md"
   ]
 }
