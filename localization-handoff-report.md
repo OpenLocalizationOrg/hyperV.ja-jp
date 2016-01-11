@@ -1,11 +1,27 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/6d639f1d7cfda97fec05851923d55ef79f73f116/virtualization/hyperv_on_windows/windows_welcome1.md) | OutofSyncHandedBackSuccess | [Details](#a2d21e596862c67450648fa6e2332458238e7780202)
 
 ## Item Details
+##### <a name='a2d21e596862c67450648fa6e2332458238e7780202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/6d639f1d7cfda97fec05851923d55ef79f73f116/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.ja-jp.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/56912a3c624c6bbb08406cfa9b613349c8c8b85a/ol-handoff/OpenLocalizationOrg/hyperV.ja-jp/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.ja-jp.xlf)
+* Handoff Datetime: 2016-01-11 06:03:50
+* Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV.ja-jp/blob/65f5fecbf9871df0c174a58f59453a3ede21793c/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Current Handback File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.ja-jp.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/05b8d6bdedb055072d492b82c6ca4a24575385db/ol-handback/OpenLocalizationOrg/hyperV.ja-jp/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.ja-jp.xlf)
+* Current Handback Datetime: 2016-01-08 14:45:10
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
