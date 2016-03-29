@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [README.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/README.md) | HandedOffSuccess | [Details](#00a716125fd77ede83e6d09813bd30f6228c5b551303)
 
 ## Item Details
-##### <a name='00a716125fd77ede83e6d09813bd30f6228c5b551303'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/README.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.ja-jp.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e6bba8b5edc210a91d40076dda85f0ed53def83/ol-handoff/OpenLocalizationOrg/hyperV.ja-jp/master/acomdc_nonhi/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.ja-jp.xlf)
-* Handoff Datetime: 2016-03-29 05:22:05
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
