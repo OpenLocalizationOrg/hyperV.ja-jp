@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "2fe86c8a94e3fd9fd366e8574eb03b640b5e0667",
-  "LastTranslatedCommit": "e8d567950cc4fbf1e94cf692141d4001c9738c95",
+  "LastTranslatedCommit": "a5e1287677171424d2d5638ae0a70251bec5fbbc",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
       "FileHash": "ed968510a1e72e532a3e4df850bed9a40050619c",
@@ -43741,14 +43741,14 @@
       "HandoffPriority": "acomdc_nonhi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "a5e1287677171424d2d5638ae0a70251bec5fbbc",
+      "TargetFilePath": "virtualization\\community\\community_overview.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.ja-jp\\master\\acomdc_nonhi\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.ja-jp.xlf",
+      "HandbackFileCommit": "27d91f385e4bd5383ee7c3171b70e3d89cb0b01b",
+      "HandbackDateTime": "2016-03-31T17:54:13.3658561Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-31T17:54:13.3658561Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
